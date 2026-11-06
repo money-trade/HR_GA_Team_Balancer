@@ -32,10 +32,13 @@
 pip install numpy
 ```
 
-**2. รัน**
+**2. รัน UI หากต้องการเห็นภาพ**
 
 ```bash
 python ga_grouping.py
+```
+```
+Ui.py
 ```
 
 **3. ดูผล** ในไฟล์ `HR_groups.csv`
